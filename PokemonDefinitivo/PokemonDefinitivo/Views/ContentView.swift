@@ -5,7 +5,7 @@
 //  Created by ricardo on 22/07/2022.
 //
 struct pokemon2{
-    var list1 = ["Blastoise", "Ninetails", "Mewtwo"]
+    var list1 = ["Blastoise", "Ninetales", "Mewtwo"]
     var vida = [100, 95, 110]
     var tipo = ["water","fire","psychic"]
     var url = ["https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F2BE319A6-26F5-4FC0-B5D1-4C7B00836F36?alt=media&token=9e243202-6a0f-4917-8665-8bb43423fe57","https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F594705A8-A0B3-4881-8C3E-C7A18995A74B?alt=media&token=69ab7ec5-bcbe-4690-945b-4ad65c4dba89","https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2FB6C73244-8B87-45F4-BFA6-456297AFA456?alt=media&token=008666e2-370f-4370-8e34-9511136c9495"]
